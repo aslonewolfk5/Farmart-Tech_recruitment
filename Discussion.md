@@ -34,19 +34,13 @@ Implementation
 - **Progress Tracking**: Monitors indexing
 
 # Steps to Run
-
-1. **Setup Directories**:
-```bash
-mkdir -p src output
-```
-
-2. **Place Log File**:
+1. **Place Log File**:
 Ensure `logs_2024.log` is in the project root.
 
-3. **Run Extraction**:
+2. **Run Extraction**:
 Execute the script to retrieve logs for a specific date.
 
-4. **Check Results**:
+3. **Check Results**:
 - Output file: `output/output_YYYY-MM-DD.txt`
 - Progress shown in terminal
 - Error messages for any issues
